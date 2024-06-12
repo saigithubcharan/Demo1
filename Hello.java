@@ -5,7 +5,6 @@ public class Hello {
         System.out.println(" Adding to github");
     }
     void sub() {
-    	System.out.println(" sub to github");
+    	System.out.println("sub to github");
     }
-    
 }
