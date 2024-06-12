@@ -7,4 +7,8 @@ public class Hello {
     void sub() {
     	System.out.println("sub to github");
     }
+
+    void multiply(){
+        System.out.println("mul to github");
+    }
 }
