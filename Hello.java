@@ -11,4 +11,11 @@ public class Hello {
     void multiply(){
         System.out.println("mul to github");
     }
+    void div() {
+    	
+    }
+    
+    void develop() {
+    	
+    }
 }
