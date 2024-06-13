@@ -17,5 +17,6 @@ public class Hello {
     
     void develop() {
     	// issue1 fixed
+    	// issue2 fixed?
     }
 }
