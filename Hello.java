@@ -1,6 +1,7 @@
 package demogroupid;
 
 public class Hello {
+	
     void add(){
         System.out.println(" Adding to github");
     }
@@ -12,5 +13,7 @@ public class Hello {
         System.out.println("mul to github");
     }
     
-    // this is testing ij j  n sb h c
+    void division(){
+        System.out.println("division to github");
+    }
 }
