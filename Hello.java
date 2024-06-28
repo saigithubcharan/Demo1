@@ -20,5 +20,7 @@ public class Hello {
     	// issue2 fixed?
     	
     	// issue 3 is fixed
+    	// issue is fixed
+    	// issue is fixed ...
     }
 }
